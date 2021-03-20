@@ -25,7 +25,7 @@ django-phonenumber-field==4.0.0
 django-storages==1.8
 django-stubs==1.4.0
 django-widget-tweaks==1.4.8
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djangorestframework-stubs==1.1.0
 docutils==0.15.2
 et-xmlfile==1.0.1
